@@ -1,6 +1,7 @@
 src/vendor
 .idea
 src/.env
+.DS_Store
 src/node_modules
 src/public/hot
 src/public/storage
